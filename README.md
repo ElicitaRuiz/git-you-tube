@@ -1,2 +1,2 @@
-# git-you-tube
+# Mi primer README
 Repositorio Git curso
